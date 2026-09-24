@@ -1,1 +1,1 @@
-# simple computer vision
+# basic computer vision practice
