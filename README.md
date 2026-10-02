@@ -1,1 +1,1 @@
-# basic computer vision practice
+# Computer Vision detection for hand and face features
